@@ -1,5 +1,5 @@
 # MVD: Memory-related Vulnerability Detection Based on Flow-Sensitive Graph Neural Networks
-## 1. Data Preparation
+## 1. Data Preprocessing
 ### Environment  
 Ubuntu 18.04
 ### Setup
